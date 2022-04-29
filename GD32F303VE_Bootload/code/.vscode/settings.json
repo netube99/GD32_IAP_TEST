@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "gd32f30x.h": "c",
+        "systick.h": "c",
+        "system_base.h": "c",
+        "rthw.h": "c",
+        "rtthread.h": "c",
+        "rtconfig.h": "c"
+    }
+}
